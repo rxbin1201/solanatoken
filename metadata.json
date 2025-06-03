@@ -1,0 +1,19 @@
+{
+    "name": "Snipify Protocol",
+    "symbol": "SPY",
+    "description": "Snipify is a revenue-sharing sniper protocol for Solana We catch new launches in real-time and distribute profits to holders",
+    "image": "https://dd.dexscreener.com/ds-data/tokens/solana/3fk6gsXUvX1qCSDukRabZQUvfGkDhDUbq9aJe2dkpump.png",
+    "creators": [
+    {
+      "address": "Hjbty7mjLw37USZR8EPStQEyRMZPfLTaRF4BCGQ4Z68t",
+      "verified": true,
+      "share": 100
+    }
+    ],
+    "extensions": {
+    "twitter": "https://x.com/snipifyfun",
+    "telegram": "https://t.me/snipifydotfun",
+    "website": "https://snipify.fun/"
+  }
+}
+}
